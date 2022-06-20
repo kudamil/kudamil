@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kudamil
 - 👀 I’m interested in Prooduct Design, Front-End Dev, React
 - 🌱 I’m currently learning Front-End Dev and React
-- 📫 How to reach me ...
+- 📫 Email: davidnurak@gmail.com
 
 <!---
 kudamil/kudamil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
